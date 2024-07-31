@@ -17,4 +17,6 @@ Cómo ejecutar el programa:
 
   ![Captura de pantalla 2024-07-31 014638](https://github.com/user-attachments/assets/16462e55-a03a-4ed4-815c-75085771628a)
 
-9. Llevar a cabo las pruebas de los ENDPOINTS por medio de Postman o Insomnia para hacer sus métodos CRUD.
+8. Llevar a cabo las pruebas de los ENDPOINTS por medio de Postman o Insomnia para hacer sus métodos CRUD.
+9. Si sale algún error, convierta el proyecto a uno de tipo Maven en click derecho sobre el proyecto->Maven-> Update Project o ALT+F5
+10. Limpie el proyecto por si es necesario en Project->Clean.
